@@ -56,7 +56,7 @@
     "update-notifier": "^3.0.1",
     "yargs": "^13.3.0",
     "lazy-val": "^1.0.4",
-    "app-builder-lib": "22.8.1",
+    "app-builder-lib": "https://github.com/mayahq/electron-builder.git#abl",
     "dmg-builder": "22.8.1"
   },
   "typings": "./out/index.d.ts",
